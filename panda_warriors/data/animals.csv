@@ -1,0 +1,190 @@
+,SciName,PopName,id
+0,Panthera Pardus,Leopard,1446
+1,Dugong Dugong,Dugong,1952
+2,Tursiops Truncatus,Bottlenose dolphin,2001
+3,Aplysia Californica,California sea hare,2246
+4,Tinamiformes,Tinamous,3352
+5,Lagomorpha,"Hares, rabbits and pikas",3877
+6,Cavia Porcellus,Guinea pig,5207
+7,Xenarthra,Xenarthrans,7686
+8,Dendrobates Auratus,Green poison dart frog,8115
+9,Orcinus Orca,Orca,9369
+10,Falconiformes,Birds of prey,9392
+11,Anura,Frogs and toads,9815
+12,Diomedea Exulans,Wandering albatross,10385
+13,Vombatus Ursinus,Wombat,13236
+14,Anser Indicus,Bar-headed goose,13423
+15,Strigiformes,Owls,15071
+16,Heloderma Suspectum,Gila monster,15503
+17,Panthera Onca,Panther,16250
+18,Tytonidae,Barn owls,16284
+19,Daubentonia Madagascariensis,Aye-aye,17060
+20,Ailuropoda Melanoleuca,Giant panda,18311
+21,Capra Aegagrus Hircus,Goat,18446
+22,Hippopotamus Amphibus,Hippopotamus,18879
+23,Didelphis Virginiana,Oppossum,19269
+24,Elephas Maximus,Asiatic elephant,19373
+25,Caracal Caracal,Caracal,21037
+26,Pygoscelis Adeliae,Adélie penguin,21708
+27,Microlophus Albemarlensis,Lava lizard,21728
+28,Conolophus Subcristatus,Galapagos land iguana,22009
+29,Campephilus Principalis,Ivory-billed woodpecker,24440
+30,Agalychnis Callidryas,Red-eyed tree frog,24520
+31,Dermochelys Coriacea,Leatherback sea turtle,25461
+32,Cnidaria,Cnidaria,26264
+33,Erithacus Rubecula,European robin,28278
+34,Helogale Parvula,Mongoose,31319
+35,Varanus Indicus,Monitor lizard,33373
+36,Scyphozoa,Jellyfish,33451
+37,Aves,Birds,34326
+38,Mustelidae,Mustelids,34582
+39,Cepphus Columba,Pigeon guillemot,34662
+40,Propithecus Tattersalli,Golden-crowned sifaka,34978
+41,Tapiridae,Tapirs,35434
+42,Canidae,Canids,35514
+43,Chelonia Mydas,Green sea turtle,35720
+44,Cyclura Cornuta,Rhinoceros iguana,36320
+45,Bufo Bufo,European common toad,36867
+46,Crocodilia,Crocodilians,37604
+47,Platalea Ajaja,Roseate spoonbill,37780
+48,Blattaria,Cockroach,38740
+49,Amphibia,Amphibians,38995
+50,Pterois Volitans,Firefish or lionfish,39303
+51,Ramphastos Sulfuratus,Keel-billed toucan,39557
+52,Meles Meles,European badger,39871
+53,Aegypius Monachus,Vulture,40298
+54,Castor Canadensis,American beaver,40316
+55,Insecta,Insects,40441
+56,Bison Bison,American bison,40643
+57,Isoptera,Termite,41296
+58,Gallus Gallus,Chicken,42540
+59,Baeolophus Bicolor,Tufted titmouse,42552
+60,Uroplatus,Leaf-tailed gecko,42784
+61,Arthropoda,Arthropoods,46561
+62,Chiroptera,Bats,48297
+63,Gavialis Gangeticus,Gavial,48564
+64,Sphenodontida,Tuataras,51574
+65,Eretmochelys Imbricata,Hawksbill sea turtle,52407
+66,Acinonyx Jubatus,Cheetah,54807
+67,Branta Sandvicensis,Nene goose,55062
+68,Ornithorhynchus Anatinus,Platypus,55479
+69,Giraffa Camelopardalis,Giraffe,55828
+70,Suidae,Pigs,56578
+71,Vespa Mandarinia,Asian giant hornet,57055
+72,Antilocapra Americana,Pronghorn,57148
+73,Canis Lupus Arctos,Arctic wolf,57403
+74,Phascolarctos Cinereus,Koala,57808
+75,Trochilidae,Hummingbirds,58417
+76,Danaus Plexippus,Monarch butterfly,58713
+77,Mollusca,Mollusks,60171
+78,Chordata,Chordates,63261
+79,Carnivora,Carnivores,63429
+80,Achatina,Snail,66687
+81,Lagenorhynchus Obscurus,Dusky dolphin,66888
+82,Ursus Americanus,American black bear,68053
+83,Equus Caballus Przewalskii,Przewalski's wild horse,68677
+84,Panthera Uncia,Snow leopard,69269
+85,Tragelaphus Oryx,Eland antelope,71010
+86,Bos Taurus,Highland Cattle,71536
+87,Marsupialia,Marsupials,72305
+88,Carcharodon Carcharias,Great white shark,72500
+89,Pteropus Rodricensis,Rodriguez flying fox,73182
+90,Chondrichthyes,Cartilaginous fishes,74326
+91,Octopus Vugaris,Octopus,74624
+92,Fratercula Arctica,Atlantic puffin,77212
+93,Anseriformes,Waterfowl,77244
+94,Eudocimus Ruber,Scarlet ibis,77652
+95,Metazoa,Animals,78030
+96,Panthera Pardus Orientalis,Amur leopard,78443
+97,Amblyrhynchus Cristatus,Marine iguana,79075
+98,Gymnophiona,Caecilians,79419
+99,Ciconiiformes,"Herons, storks, ibises and spoonbills",80574
+100,Geochelone Nigra,Galapagos tortoise,80988
+101,Orcaella Brevirostris,Irrawaddy dolphin,82925
+102,Delphinus Delphis,Common dolphin,83163
+152,,name,
+103,Caelifera,Grasshopper,84041
+104,Branta Canadensis,Canada goose,85306
+105,Animalia,Animals,85862
+106,Ursus Maritimus,Polar bear,86245
+107,Ursus Arctos,Brown bear,86637
+108,Dasyatis Centroura,Stingray,87013
+109,Diceros Bicornis,Black rhinoceros,87219
+110,Odocoileus Virginiana,Deer,88027
+111,Panthera Tigris,Tiger,88101
+112,Aepyceros Melampus,Impala,88456
+113,Lynx Lynx,Eurasian lynx,88559
+114,Alces Americanus,American moose,88931
+115,Cetacea,Cetaceans,89732
+116,Indri Indri,Inrdi,89972
+117,Sphenisciformes,Penguins,91734
+118,Lynx Rufus,Bobcat,92275
+119,Sarcopterygii,Lobe-finned fishes,92593
+120,Cichlidae,Cichlids,93369
+121,Bombus,Bumble Bee,93864
+122,Erethizon Dorsaum,Porcupine,94385
+123,Balaenoptera Musculus,Blue whale,94433
+124,Raphus Cucullatus,Dodo,95270
+125,Squamata,"Amphisbaenians, lizards and snakes",95359
+126,Eschrichtius Robustus,Gray whale,96592
+127,Suricata Suricatta,Meerkat,97660
+128,Struthio Camelus,Ostrich,97818
+129,Rangifer Tarandus,Caribou,98916
+130,Loxodonta Africana,African elephant,99992
+131,Tamias Striatus,Chipmunk,100629
+132,Trichechus,Manatees,100713
+133,Phoenicopterus Ruber,Greater flamingo,101424
+134,Sphyrnidae,Hammerhead sharks,101796
+135,Archilochus Colubris,Ruby-throated hummingbird,101797
+136,Mephitidae,Skunks and stink badgers,103064
+137,Tremarctos Ornatus,Spectacled bear,105716
+138,Gastropoda,"Gastropods, slugs and snails",107477
+139,Equus Burchellii,Burchell's zebra,108901
+140,Echinodermata,Echinoderms,109278
+141,Reptilia,Reptiles,109500
+142,Porifera,Sponges,109595
+143,Sula Nebouxii,Blue-footed booby,109923
+144,Balaeniceps Rex,Shoebill,110839
+145,Varanus Komodoensis,Komodo dragon,111946
+146,Hyperoodon Ampullatus,Northern bottlenose whale,114302
+147,Dasypus Novemcinctus,Nine-banded armadillo,114410
+148,Pongo Pygmaeus,Bornean orangutan,114507
+149,Tamandua Tetradactyla,Southern tamandua,115781
+150,Equus Asinus Somalicus,Somali wild ass,115900
+151,Hyaenidae,Hyenas,117784
+152,Panthera Leo,Lion,118157
+152,binom,,id_sp.
+153,Lagenorhynchus Acutus,Atlantic white-sided dolphin,120323
+154,Elasmobranchii,"Sharks, skates and rays",121258
+155,Galeocerdo Cuvier,Tiger Shark,121925
+156,Phoca Vitulina,Common seal,122691
+157,Panthera Tigris Altaica,Siberian tiger,123006
+158,Urochordata,Sea squirt,125605
+159,Rana Catesbeiana,Bullfrog,125713
+160,Gorilla Gorilla,Gorilla,125932
+161,Felis Concolor,Puma,127298
+162,Myrmecophaga Tridactyla,Giant anteater,127930
+163,Chelonia,Turtles and tortoises,128821
+164,Vulpes Vulpes,Red fox,129663
+165,Ceratotherium Simum,White rhinoceros,130843
+166,Mammalia,Mammals,130962
+167,Odobenus Rosmarus,Walrus,131324
+168,Felidae,Cats,131431
+169,Perissodactyla,Odd-toed ungulates,131496
+170,Rhincodon Typus,Whale shark,131975
+171,Brachyura,Crab,133615
+172,Artiodactyla,Even-toed ungulates,135989
+173,Xenopus Laevis,African clawed frog,136654
+174,Caretta Caretta,Loggerhead turtle,137597
+175,Pelicaniformes,Pelicans and relatives,137837
+176,Morus Bassanus,Northern gannet,140504
+177,Puma Concolor,Mountain Lion,141429
+178,Iguana Iguana,Iguana,142178
+179,Mustela Nigripes,Black-footed ferret,143085
+180,Electrophorus Electricus,Electric eel,144229
+181,Actinopterygii,Ray-finned fishes,144321
+182,Rodentia,Rodents,144486
+183,Homo Neanderthalensis,Neandertal,145887
+184,Fregatidae,Frigatebirds,146661
+185,Proboscidea,Elephants,147189
+186,Batoidea,Skates and rays,147520
